@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="ios_background">#FF000000</color>
+    <color name="number_button">#FF333333</color>
+    <color name="operator_button">#FFFF9500</color>
+    <color name="top_button">#FFA5A5A5</color>
+    <color name="display_text">#FFFFFFFF</color>
+    <color name="number_text">#FFFFFFFF</color>
+    <color name="operator_selected">#FFFFFFFF</color>
+    <color name="top_text">#FF000000</color>
+</resources>
